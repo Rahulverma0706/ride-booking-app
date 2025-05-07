@@ -33,7 +33,7 @@ Experience the app live on the web:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ride-booking-app.git
+   git clone https://github.com/Rahulverma0706/ride-booking-app.git
 ````
 
 2. Navigate to the project directory:
@@ -121,7 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Customization:
-- **Repository Name**: Update `https://github.com/your-username/ride-booking-app.git` with your actual GitHub repository URL.
-- **Screenshots**: Replace the screenshot links with actual image paths of your app.
-```
+
